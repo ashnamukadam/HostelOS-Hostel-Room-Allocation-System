@@ -1,5 +1,7 @@
 # HostelOS – Hostel Room Allocation System
 
+🌐 **Live Website:** https://hostelos.great-site.net/
+
 A web-based Hostel Room Allocation System developed using **PHP, MySQL, HTML, CSS and JavaScript**. The application helps manage hostel records, student information, room inventory and room allocations through a centralized dashboard.
 
 ## Project Overview
